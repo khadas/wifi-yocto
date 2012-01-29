@@ -1,0 +1,8 @@
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/compat/compat.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/net/wireless/cfg80211.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/net/wireless/lib80211_crypt_wep.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/net/wireless/lib80211_crypt_ccmp.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/net/wireless/lib80211_crypt_tkip.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/net/mac80211/mac80211.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/drivers/net/wireless/ath/ath6kl/ath6kl_usb.ko
+kernel//mnt/fileroot/justin.liu/android2.3.ath9k/kernel/compat-wireless-ath6kl3.2.1.49/ath6kl.3.2.1.49/drivers/net/wireless/ath/ath.ko
