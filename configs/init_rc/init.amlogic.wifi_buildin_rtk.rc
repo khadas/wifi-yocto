@@ -1,4 +1,0 @@
-on boot
-
-on fs
-    insmod /vendor/lib/modules/88x2cs.ko ifname=wlan0 if2name=p2p0

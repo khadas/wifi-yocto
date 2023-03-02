@@ -1,2 +1,0 @@
-on boot
-    insmod /vendor/lib/modules/wlan_9379.ko country_code=CN
